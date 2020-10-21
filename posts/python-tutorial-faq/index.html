@@ -217,7 +217,12 @@ On the command line write <code>git init</code></p>
          to set your account's default identity.
          Omit --global to set the identity only in this repository.</code></pre>
 <p>What should I do?</p>
-<p><strong>A.</strong> You need to go to github.com to register an account first.</p>
+<p><strong>A.</strong> This message typically appears the first time you use <code>git</code> on a computer. When you make changes in the repository, <code>git</code> will track those changes as well as who made them - and to do that, it needs to know your name and email address. Run the two lines mentioned in the error, replacing <code>you@example.com</code> with your actual email address and <code>Your Name</code> with your name:</p>
+
+<pre><code>        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"</code></pre>
+<p>And then re-run the <code>git</code> command that returned the error.</p>
+<p>If this is your first time using <code>git</code>, we recommend reading the first two chapters of <a href="https://git-scm.com/book/en/v2">Pro Git</a> to learn more about it. <a href="https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup">Chapter 1.6</a> covers this first-time setup step.</p>
 <hr>
 </div>
 </div>
