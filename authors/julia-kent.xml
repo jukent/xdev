@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Xdev (Posts by Julia Kent)</title><link>https://ncar.github.io/xdev/</link><description></description><atom:link href="https://ncar.github.io/xdev/authors/julia-kent.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 UCAR Apache 2.0</copyright><lastBuildDate>Thu, 15 Apr 2021 03:27:56 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Object Oriented Programming</title><link>https://ncar.github.io/xdev/posts/object-oriented-programming/</link><dc:creator>Julia Kent</dc:creator><description>&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Xdev (Posts by Julia Kent)</title><link>https://ncar.github.io/xdev/</link><description></description><atom:link href="https://ncar.github.io/xdev/authors/julia-kent.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 UCAR Apache 2.0</copyright><lastBuildDate>Fri, 21 May 2021 19:11:00 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Pandas Tutorial</title><link>https://ncar.github.io/xdev/posts/pandas-tutorial/</link><dc:creator>Julia Kent</dc:creator><description>&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;The NCAR/UCAR virtual Python Tutorial Seminar Series continues with an introduction to the Python package &lt;code&gt;pandas&lt;/code&gt; on &lt;strong&gt;Wednesday, May 26th at 1 PM Mountain&lt;/strong&gt;. This session will be led by Drew Camron and Max Grover.&lt;/p&gt;
+&lt;p&gt;The content for this tutorial is hosted on Max's &lt;a href="https://github.com/mgrover1/ncar_pandas_tutorial"&gt;NCAR Pandas Tutorial Github Repository&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="Preparation"&gt;Preparation&lt;a class="anchor-link" href="https://ncar.github.io/xdev/posts/pandas-tutorial/#Preparation"&gt;¶&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Check your conda install if this is the first tutorial in the series you are joining us for with &lt;code&gt;conda --version&lt;/code&gt; and if necessary &lt;a href="https://docs.conda.io/en/latest/miniconda.html"&gt;install by following these instructions&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://ncar.github.io/xdev/posts/pandas-tutorial/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><guid>https://ncar.github.io/xdev/posts/pandas-tutorial/</guid><pubDate>Wed, 19 May 2021 19:16:51 GMT</pubDate></item><item><title>Git and GitHub Tutorial</title><link>https://ncar.github.io/xdev/posts/git-and-github-tutorial/</link><dc:creator>Julia Kent</dc:creator><description>&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;The NCAR/UCAR virtual Python Tutorial Seminar Series continues with an introduction to the Python package &lt;code&gt;Git&lt;/code&gt; and &lt;code&gt;GitHub&lt;/code&gt; on &lt;strong&gt;Wednesday, May 12th at 1 PM Mountain&lt;/strong&gt;. This session will be led by Kevin Paul.&lt;/p&gt;
+&lt;p&gt;The purpose of this seminar is to cover just some of the common content needed to understand and use git and GitHub for collaboration on software.  This is not meant to be an introduction to git or GitHub.&lt;/p&gt;
+&lt;h3 id="Assumptions-of-past-Git-experience"&gt;Assumptions of past Git experience&lt;a class="anchor-link" href="https://ncar.github.io/xdev/posts/git-and-github-tutorial/#Assumptions-of-past-Git-experience"&gt;¶&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We assume that you understand these basic Git commands:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating a git repository with "git init"&lt;/li&gt;
+&lt;li&gt;Staging changes to a git repository with "git add"&lt;/li&gt;
+&lt;li&gt;Committing staged changes to a git repository history with "git commit"&lt;/li&gt;
+&lt;li&gt;Checking the status of a git repository with "git status"&lt;/li&gt;
+&lt;li&gt;Looking at the commit history of a git repository with "git log"&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://ncar.github.io/xdev/posts/git-and-github-tutorial/"&gt;Read more…&lt;/a&gt; (2 min remaining to read)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><guid>https://ncar.github.io/xdev/posts/git-and-github-tutorial/</guid><pubDate>Fri, 07 May 2021 20:04:42 GMT</pubDate></item><item><title>Cartopy Tutorial</title><link>https://ncar.github.io/xdev/posts/cartopy-tutorial/</link><dc:creator>Julia Kent</dc:creator><description>&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;The NCAR/UCAR virtual Python Tutorial Seminar Series continues with an introduction to the Python package &lt;code&gt;cartopy&lt;/code&gt; on &lt;strong&gt;Wednesday, April 28th at 1 PM Mountain&lt;/strong&gt;. This session will be led by Michaela Sizemore.&lt;/p&gt;
+&lt;p&gt;The content for this tutorial is hosted on Michaelsa's &lt;a href="https://github.com/michaelavs/cartopy_tutorial"&gt;Cartopy Tutorial Github Repository&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="Preparation"&gt;Preparation&lt;a class="anchor-link" href="https://ncar.github.io/xdev/posts/cartopy-tutorial/#Preparation"&gt;¶&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Check your conda install if this is the first tutorial in the series you are joining us for with &lt;code&gt;conda --version&lt;/code&gt; and if necessary &lt;a href="https://docs.conda.io/en/latest/miniconda.html"&gt;install by following these instructions&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://ncar.github.io/xdev/posts/cartopy-tutorial/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><guid>https://ncar.github.io/xdev/posts/cartopy-tutorial/</guid><pubDate>Mon, 26 Apr 2021 14:27:07 GMT</pubDate></item><item><title>Object Oriented Programming</title><link>https://ncar.github.io/xdev/posts/object-oriented-programming/</link><dc:creator>Julia Kent</dc:creator><description>&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;&lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;p&gt;The NCAR/UCAR virtual Python Tutorial Seminar Series continues with an introduction to Object Oriented Programming on &lt;strong&gt;Wednesday, April 14th at 1 PM Mountain&lt;/strong&gt;. This session will be led by Austin Kootz.&lt;/p&gt;
@@ -93,42 +122,4 @@
 &lt;p&gt;&lt;strong&gt;A.&lt;/strong&gt; We do not advise that. &lt;code&gt;__init__.py&lt;/code&gt; is a special file that needs to be in that directory for Python to know to treat that directory like a Python package. So you need it even though it is, in this case, an empty file.&lt;/p&gt;
 &lt;p&gt;Whenever you do an import of a module, that module is executed. So if you’ve defined variables or run code in that file - at import time, that code will be executed. Modules tend to only contain function definitions or the construction of data or classes, so that at import time these definitions are available to us without. &lt;code&gt;__init__.py&lt;/code&gt; works much the same way. Whenever you import something from a package its &lt;code&gt;__init__.py&lt;/code&gt; will be executed. Since we don’t need anything done, in our situation, it is empty.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;a href="https://ncar.github.io/xdev/posts/your-first-package-python-tutorial-faq/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><guid>https://ncar.github.io/xdev/posts/your-first-package-python-tutorial-faq/</guid><pubDate>Fri, 19 Feb 2021 23:59:27 GMT</pubDate></item><item><title>Python Tutorial Seminar Series - Spring 2021</title><link>https://ncar.github.io/xdev/posts/python-tutorial-seminar-series-spring-2021/</link><dc:creator>Julia Kent</dc:creator><description>&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
-&lt;/div&gt;&lt;div class="inner_cell"&gt;
-&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;The "Your First" Python Tutorial Series is over, but the tutorial seminar series continues.&lt;/p&gt;
-&lt;h3 id="Please-join-us-(virtually)-on-the-following-dates:"&gt;Please join us (virtually) on the following dates:&lt;a class="anchor-link" href="https://ncar.github.io/xdev/posts/python-tutorial-seminar-series-spring-2021/#Please-join-us-(virtually)-on-the-following-dates:"&gt;¶&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;All events are at 1 PM Mountain&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;February 24, 2021&lt;/em&gt; -  Jupyter Notebooks &lt;br&gt;
-An introduction to Jupyter Notebooks that will be fundamental for following many subsequent tutorials.
-&lt;/p&gt;&lt;p&gt;&lt;a href="https://ncar.github.io/xdev/posts/python-tutorial-seminar-series-spring-2021/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><guid>https://ncar.github.io/xdev/posts/python-tutorial-seminar-series-spring-2021/</guid><pubDate>Tue, 16 Feb 2021 20:56:01 GMT</pubDate></item><item><title>Python Tutorial FAQ - Part 3</title><link>https://ncar.github.io/xdev/posts/python-tutorial-faq-part-3/</link><dc:creator>Julia Kent</dc:creator><description>&lt;div&gt;&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
-&lt;/div&gt;&lt;div class="inner_cell"&gt;
-&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Here is a compilation of questions from the third session of the Python Tutorial Seminar Series which covered writing functions as well as f-string formatting.&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
-&lt;/div&gt;&lt;div class="inner_cell"&gt;
-&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;&lt;strong&gt;Q.&lt;/strong&gt; Seeing how &lt;code&gt;2/2&lt;/code&gt; returns &lt;code&gt;1.0&lt;/code&gt; instead of &lt;code&gt;1&lt;/code&gt;, is the numeric type automatically determined from the inputs or do you have to force it?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A.&lt;/strong&gt; The numeric type is inferred. &lt;code&gt;/&lt;/code&gt; always returns a float for numeric types. &lt;code&gt;//&lt;/code&gt; always returns an integer.&lt;/p&gt;
-&lt;p&gt;One should note that Python 2 does not behave this way.  In Python 2, the &lt;code&gt;//&lt;/code&gt; operator does not exist and the &lt;code&gt;/&lt;/code&gt; operator behaves like it does in other languages (i.e., division of two integers yields an integer and division with a float yields a float).&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;a href="https://ncar.github.io/xdev/posts/python-tutorial-faq-part-3/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><guid>https://ncar.github.io/xdev/posts/python-tutorial-faq-part-3/</guid><pubDate>Wed, 18 Nov 2020 22:17:45 GMT</pubDate></item><item><title>Python Tutorial FAQ - Part 2</title><link>https://ncar.github.io/xdev/posts/python-tutorial-faq-part-2/</link><dc:creator>Julia Kent</dc:creator><description>&lt;div&gt;&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
-&lt;/div&gt;&lt;div class="inner_cell"&gt;
-&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Here is a compilation of questions and issues that arose during the second session of the Python Tutorial Seminar Series, on creating a data dictionary. After this first short series, these FAQ sections will be added to the &lt;a href="https://ncar.github.io/python-tutorial/"&gt;Xdev tutorial website&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
-&lt;/div&gt;&lt;div class="inner_cell"&gt;
-&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;&lt;strong&gt;Q.&lt;/strong&gt; Why is &lt;code&gt;list[0:10]&lt;/code&gt; the first 10 elements, not 11?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A.&lt;/strong&gt; In Python, "list slicing" uses square brackets with the syntax &lt;code&gt;[start:stop:step]&lt;/code&gt;.  The &lt;code&gt;start&lt;/code&gt; is &lt;em&gt;inclusive&lt;/em&gt;, while the &lt;code&gt;step&lt;/code&gt; is &lt;em&gt;exclusive&lt;/em&gt;.  So, you read up to (but excluding) the &lt;code&gt;stop&lt;/code&gt; index.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;a href="https://ncar.github.io/xdev/posts/python-tutorial-faq-part-2/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><guid>https://ncar.github.io/xdev/posts/python-tutorial-faq-part-2/</guid><pubDate>Thu, 05 Nov 2020 18:19:51 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://ncar.github.io/xdev/posts/your-first-package-python-tutorial-faq/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description><guid>https://ncar.github.io/xdev/posts/your-first-package-python-tutorial-faq/</guid><pubDate>Fri, 19 Feb 2021 23:59:27 GMT</pubDate></item></channel></rss>
